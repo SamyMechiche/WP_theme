@@ -45,7 +45,7 @@ Le thème propose des zones de widgets pour afficher des informations supplémen
 
 ## Auteurs
 
-- [Ton Nom](https://github.com/tonusername)
+- [Samy MECHICHE](https://github.com/SamyMechiche)
 
 ## Licence
 
